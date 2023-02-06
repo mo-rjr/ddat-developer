@@ -1,0 +1,25 @@
+https://www.gov.uk/guidance/software-developer#developer
+
+6.ii.2023
+
+Developer
+A developer delivers software components that form part of a product.
+
+At this role level, you will:
+
+develop software to meet user needs
+follow best practice guidelines and help to improve those guidelines
+write clean, secure and well-tested code
+coach and mentor more junior colleagues
+operate the services you build and identify issues in production
+Skills needed for this role level
+Availability and capacity management. You can manage service components to ensure they meet business needs and performance targets. (Skill level: working)
+Development process optimisation. You can explain the importance of developing process efficiency and the common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Skill level: awareness)
+Information security. You can understand information security. You can design solutions and services with security controls embedded, specifically engineered with mitigation of security threats as a core feature. (Skill level: practitioner)
+Modern standards approach. You can competently apply a modern standards approach and guide others to do so. (Skill level: practitioner)
+Programming and build (software engineering). You can collaborate with others when necessary to review specifications. You can use the agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools. (Skill level: practitioner)
+Prototyping. You can approach prototyping as a team activity, actively soliciting prototypes and testing with others. You can establish design patterns and iterate them. You can use a variety of prototyping methods and choose the most appropriate. (Skill level: practitioner)
+Service support. You can help fix faults following agreed procedures. You can carry out agreed maintenance tasks on infrastructure. (Skill level: working)
+Systems design. You can translate logical designs into physical designs. You can produce detailed designs. You can effectively document all work using required standards, methods and tools, including prototyping tools where appropriate. You can design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact. You can work with well-understood technology and identify appropriate patterns. (Skill level: working)
+Systems integration. You can build and test simple interfaces between systems. You can work on more complex integration as part of a wider team. (Skill level: working)
+User focus. You can collaborate with user researchers and can represent users internally. You can explain the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to use. (Skill level: practitioner)
